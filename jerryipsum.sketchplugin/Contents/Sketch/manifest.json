@@ -25,7 +25,7 @@
   "description": "A Seinfeld data plugin for Sketch.",
   "identifier": "jerryipsum",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/.appcast.xml",
   "author": "Vince Angeloni",
   "authorEmail": "vince.r.angeloni@gmail.com"
 }

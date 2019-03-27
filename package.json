@@ -2,6 +2,7 @@
   "name": "jerryipsum",
   "version": "0.8.0",
   "description": "A Seinfeld data plugin for Sketch.",
+  "repository": "https://github.com/vinceangeloni/jerryipsum",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -22,5 +23,8 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
   },
-  "author": "Vince Angeloni <vince.r.angeloni@gmail.com>"
+  "author": "Vince Angeloni <vince.r.angeloni@gmail.com>",
+  "dependencies": {
+    "skpm": "^1.1.15"
+  }
 }
