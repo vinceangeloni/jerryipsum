@@ -1,4 +1,8 @@
-# jerryipsum
+# Jerry Ipsum
+
+Turn your boring UI filler text into Seinfeld fun! Includes character names, things and most importantly quotes from the hit tv show Seinfeld. 
+
+![Preview1](./preview.png)
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
 
