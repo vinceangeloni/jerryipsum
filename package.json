@@ -1,0 +1,26 @@
+{
+  "name": "jerryipsum",
+  "version": "0.8.0",
+  "description": "A Seinfeld data plugin for Sketch.",
+  "engines": {
+    "sketch": ">=3.0"
+  },
+  "skpm": {
+    "name": "jerryipsum",
+    "manifest": "src/manifest.json",
+    "main": "jerryipsum.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.5.2"
+  },
+  "author": "Vince Angeloni <vince.r.angeloni@gmail.com>"
+}

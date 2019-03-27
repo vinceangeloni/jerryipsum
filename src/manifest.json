@@ -1,0 +1,24 @@
+{
+  "name": "Jerry Ipsum",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "suppliesData": true,
+  "commands": [
+    {
+      "script": "bosco.js",
+      "handlers": {
+        "actions": {
+          "Startup": "onStartup",
+          "Shutdown": "onShutdown",
+          "SupplyCharacter": "onSupplyCharacter",
+          "SupplyThing": "onSupplyThing",
+          "SupplyQuote": "onSupplyQuote"
+        }
+      }
+    }
+  ],
+  "menu": {
+    "title": "Jerry Ipsum"
+  }
+}
