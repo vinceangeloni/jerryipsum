@@ -1,6 +1,6 @@
 {
   "name": "jerryipsum",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "A Seinfeld data plugin for Sketch.",
   "repository": "https://github.com/vinceangeloni/jerryipsum",
   "engines": {
