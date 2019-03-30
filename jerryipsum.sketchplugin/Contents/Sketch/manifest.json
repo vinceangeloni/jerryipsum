@@ -21,7 +21,7 @@
   "menu": {
     "title": "Jerry Ipsum"
   },
-  "version": "0.8.0",
+  "version": "0.8.5",
   "description": "A Seinfeld data plugin for Sketch.",
   "identifier": "jerryipsum",
   "disableCocoaScriptPreprocessor": true,
